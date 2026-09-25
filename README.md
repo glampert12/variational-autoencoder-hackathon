@@ -28,7 +28,7 @@ Python · PyTorch · torchvision · NumPy · Matplotlib
 
 ## Team
 
-Gian Lampert · Olle
+Gian Lampert · Olle Sundberg
 
 ## Files
 
